@@ -1,9 +1,9 @@
 <template>
-    <Person />
+    <Person></Person>
 </template>
 
 <script setup lang='ts' name='App'>
-    import Person from '@/compoents/Person.vue'
+    import Person from './compoents/Person.vue'
 </script>
 
 <style scoped></style>
