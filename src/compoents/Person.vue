@@ -19,4 +19,9 @@
     button {
         margin: 0 5px;
     }
+
+    img {
+        height: 100px;
+        margin: 0 10px;
+    }
 </style>
